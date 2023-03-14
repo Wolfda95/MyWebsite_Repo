@@ -11,7 +11,7 @@ header_menu: true
 
 {{< imagewithtext img="/images/beer-min.jpg"  link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team/prof-dr-m-beer.html">}}
 Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic and Interventional Radiology at Ulm University. After his professorships in Clinical Radiology (University of Wuerzburg) and Pediatric Radiology (Medical University of Graz, Austria) he has been appointed chairman of the Radiology Department (Ulm University) in 2013.
-Test
+
 {{<icon class="fa fa-envelope">}}&nbsp;[sekretariat.radiologie1@uniklinik-ulm.de](mailto:sekretariat.radiologie1@uniklinik-ulm.de)
 
 &nbsp;
