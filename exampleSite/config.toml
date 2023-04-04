@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "XAIRAD"
+title = "Daniel Wolf"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -31,11 +31,11 @@ title = "XAIRAD"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "XAIRAD"
+    title = "Daniel Wolf"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "AI, XAIRAD, Artificial Intelligence, Ulm, University Ulm, Universität Ulm, Uniklinik Ulm, University Clinic Ulm, Research, Viscom, Visual Computing"
+        keywords = "Deep Learning, Medical Imaging, Contrastive Learning, Self-Supervised Learning, AI, XAIRAD, Artificial Intelligence, Ulm, University Ulm, Universität Ulm, Uniklinik Ulm, University Clinic Ulm, Research, Viscom, Visual Computing"
