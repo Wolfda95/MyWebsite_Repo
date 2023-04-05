@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="103c73e4-9431-4cb5-92dd-5b7c025245d3" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/exampleSite/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/content/_index.md" afterDir="false" />
+    <list default="true" id="103c73e4-9431-4cb5-92dd-5b7c025245d3" name="Changes" comment="Name">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exampleSite/content/homepage/about-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/content/homepage/about-me.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exampleSite/content/homepage/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/content/homepage/contact.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exampleSite/content/homepage/opener.md" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/content/homepage/opener.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/static/images/abeer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/static/images/beer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/static/images/kestler.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/static/images/racoon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/static/images/ropinski.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleSite/content/homepage/services.md" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/content/homepage/services.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +25,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/wolfda/PycharmProjects/MyWebseite_Upload",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wolfda/PycharmProjects/MyWebsite_Repo&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +49,8 @@
       <workItem from="1678890120178" duration="606000" />
       <workItem from="1680608057161" duration="10000" />
       <workItem from="1680621407670" duration="239000" />
+      <workItem from="1680622204749" duration="342000" />
+      <workItem from="1680700722834" duration="1777000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1678798702288</created>
@@ -69,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678798743256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Name">
+      <created>1680622216857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680622216857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Name" />
   </component>
 </project>

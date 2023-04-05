@@ -3,6 +3,45 @@ title: "Publications"
 weight: 3
 header_menu: true
 ---
+&nbsp;
+
+#### CT Radiomics and Clinical Feature Model to Predict Lymph Node Metastases in Early-Stage Testicular Cancer
+
+![Example image](/images/CathiTirdPaper.png)
+
+
+&nbsp;
+
+##### Abstract
+Accurate retroperitoneal lymph node metastasis (LNM) prediction in early-stage testicular germ cell tumours (TGCT) harbours the potential to significantly reduce over- or undertreatment and treatment-related morbidity in this group of young patients as an important survivorship imperative. We investigated the role of computed tomography (CT) radiomics models integrating clinical predictors for the individualized prediction of LNM in early-stage TGCT. Ninety-one patients with surgically proven testicular germ cell tumours and contrast-enhanced CT were included in this retrospective study. Dedicated radiomics software was used to segment 273 retroperitoneal lymph nodes and extract features. After feature selection, radiomics-based machine learning models were developed to predict LN metastasis. The robustness of the procedure was controlled by 10-fold cross-validation. Using multivariable logistic regression modelling, we developed three prediction models: A radiomics-only model, a clinical-only model and a combined radiomics-clinical model. The models' performance was evaluated using the area under the receiver operating characteristic curve (AUC). Finally, decision curve analysis was performed to estimate the clinical usefulness of the predictive model. The radiomics-only model for predicting lymph node metastasis reached a greater discrimination power than the clinical-only model, with an AUC of 0.84 (± 0.17; 95% CI ) vs 0.60 (± 0.22; 95% CI) in our study cohort. The combined model integrating clinical risk factors and selected radiomics features outperformed the clinical-only and the radiomics-only prediction models and showed good discrimination with an area under the curve of 0.94 ( ± 0.10; 95% CI). The decision curve analysis demonstrated the clinical usefulness of our proposed combined model. The presented combined CT-based radiomics-clinical model represents an exciting non-invasive prediction tool for individualized prediction of LN metastasis in testicular germ cell tumours. Multi-centre validation is required to generate high-quality evidence for its clinical application.
+
+&nbsp;
+
+##### Reference
+<cite id="Lisson">Lisson, C. S., Manoj, S., Wolf, D., Schrader, J., Schmidt, S. A., Beer, M., ... & Lisson, C. G.. CT Radiomics and Clinical Feature Model to Predict Lymph Node Metastases in Early-Stage Testicular Cancer. <em>Onco</em>. 2023.</cite>
+[Link](https://www.mdpi.com/)
+
+---
+&nbsp;
+
+#### Weakly Supervised Learning with Positive and Unlabeled Data for Automatic Brain Tumor Segmentation
+
+![Example image](/images/applsci-12-10763-g001.png)
+
+
+&nbsp;
+
+##### Abstract
+A major obstacle to the learning-based segmentation of healthy and tumorous brain tissue is the requirement of having to create a fully labeled training dataset. Obtaining these data requires tedious and error-prone manual labeling with respect to both tumor and non-tumor areas. To mitigate this problem, we propose a new method to obtain high-quality classifiers from a dataset with only small parts of labeled tumor areas. This is achieved by using positive and unlabeled learning in conjunction with a domain adaptation technique. The proposed approach leverages the tumor volume, and we show that it can be either derived with simple measures or completely automatic with a proposed estimation method. While learning from sparse samples allows reducing the necessary annotation time from 4 h to 5 min, we show that the proposed approach further reduces the necessary annotation by roughly 50% while maintaining comparative accuracies compared to traditionally trained classifiers with this approach.
+
+&nbsp;
+
+##### Reference
+<cite id="Wolf">Wolf, D., Regnery, S., Tarnawski, R., Bobek-Billewicz, B., Polańska, J., & Götz, M.. Weakly Supervised Learning with Positive and Unlabeled Data for Automatic Brain Tumor Segmentation. <em>Applied Sciences</em>. 2022.</cite>
+[Link](https://www.mdpi.com/2076-3417/12/21/10763)
+
+---
+
 
 &nbsp;
 
@@ -41,4 +80,20 @@ The study’s primary aim is to evaluate the predictive performance of CT-derive
 <cite id="Lisson2">Lisson, C. S., Lisson, C. G., Achilles, S., Mezger, M. F., Wolf, D., Schmidt, S. A, Thaiss, W., Johannes, B., Beer A. J., Stilgenbauer, S., Beer, M., Goetz, M.. Longitudinal CT Imaging to Explore the Predictive Power of 3D Radiomic Tumour Heterogeneity in Precise Imaging of Mantle Cell Lymphoma (MCL). <em>Cancers</em>. 2022.</cite>
 [Link](https://www.mdpi.com/2072-6694/14/2/393)
 
+---
 
+
+#### Multiple trajectory prediction with deep temporal and spatial convolutional neural networks
+
+![Example image](/images/JanPaper.png)
+
+&nbsp;
+
+##### Abstract
+Automated vehicles need to not only perceive their environment, but also predict the possible future behavior of all detected traffic participants in order to safely navigate in complex scenarios and avoid critical situations, ranging from merging on highways to crossing urban intersections. Due to the availability of datasets with large numbers of recorded trajectories of traffic participants, deep learning based approaches can be used to model the behavior of road users. This paper proposes a convolutional network that operates on rasterized actor-centric images which encode the static and dynamic actor-environment. We predict multiple possible future trajectories for each traffic actor, which include position, velocity, acceleration, orientation, yaw rate and position uncertainty estimates. To make better use of the past movement of the actor, we propose to employ temporal convolutional networks (TCNs) and rely on uncertainties estimated from the previous object tracking stage. We evaluate our approach on the public "Argoverse Motion Forecasting" dataset, on which it won the first prize at the Argoverse Motion Forecasting Challenge, as presented on the NeurIPS 2019 workshop on "Machine Learning for Autonomous Driving".
+
+&nbsp;
+
+##### Reference
+<cite id="Jan">Strohbeck, J., Belagiannis, V., Müller, J., Schreiber, M., Herrmann, M., Wolf, D., Buchholz, M.. Multiple trajectory prediction with deep temporal and spatial convolutional neural networks. <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>. 2020.</cite>
+[Link](https://ieeexplore.ieee.org/abstract/document/9341327)
