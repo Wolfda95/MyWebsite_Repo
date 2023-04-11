@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="103c73e4-9431-4cb5-92dd-5b7c025245d3" name="Changes" comment="Cathis Publication Link">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleSite/content/homepage/b_about-me.md" beforeDir="false" afterPath="$PROJECT_DIR$/exampleSite/content/homepage/b_about-me.md" afterDir="false" />
-    </list>
+    <list default="true" id="103c73e4-9431-4cb5-92dd-5b7c025245d3" name="Changes" comment="Bulletpoint bug fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +24,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/wolfda/PycharmProjects/MyWebsite_Repo",
+    "last_opened_file_path": "/home/wolfda/PycharmProjects/E2MIP_Website_Repo",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
@@ -55,7 +51,7 @@
       <workItem from="1680772547090" duration="6441000" />
       <workItem from="1681205106866" duration="798000" />
       <workItem from="1681206442907" duration="957000" />
-      <workItem from="1681207416581" duration="5110000" />
+      <workItem from="1681207416581" duration="5337000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1678798702288</created>
@@ -106,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681205888858</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Bulletpoint bug fix">
+      <created>1681212775437</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681212775437</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +133,7 @@
     <MESSAGE value="Bug" />
     <MESSAGE value="CV" />
     <MESSAGE value="Cathis Publication Link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cathis Publication Link" />
+    <MESSAGE value="Bulletpoint bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bulletpoint bug fix" />
   </component>
 </project>

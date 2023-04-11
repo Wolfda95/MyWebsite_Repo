@@ -10,7 +10,7 @@ header_menu: true
 Since 2020: Research Associate, University Hospital Ulm
 - Research in Deep Learning for Medical Imaging 
 - IT Infrastructure Maintenance 
-- Teaching Test
+- Teaching
 
 &nbsp;
 ##### Academics
